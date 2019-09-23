@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-		"startx": "start cmd /k node animeEpisodeX.js ratio=0"
+    "startx": "start cmd /k node animeEpisodeX.js ratio=0",
+    "start": "start cmd /k node src/index.js ratio=0"
   },
   "author": "",
   "license": "ISC",
