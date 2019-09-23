@@ -4,8 +4,8 @@
  * @author cmyh100
  * www.dilidili.name
  */
-const http = require('http')
-const cheerio = require('cheerio')
+const http = require('http');
+const cheerio = require('cheerio');
 const Excel = require('exceljs');
 const fs = require('fs');
 const request = require('request');
