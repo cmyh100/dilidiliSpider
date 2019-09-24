@@ -11,7 +11,7 @@
 
 ```
 npm i
-npm run start
+npm start
 ```
 
 ## 备注
