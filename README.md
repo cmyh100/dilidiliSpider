@@ -1,6 +1,6 @@
 # 基于NodeJS的爬虫工具
 
-<p>基于nodejs的爬虫工具，示例站点为dilidili动漫网</p>
+<p>基于nodejs的爬虫工具，示例站点为dilidili动漫网（很遗憾d站已经凉了）</p>
 
 ## 使用方法
 
